@@ -1,0 +1,15 @@
+nav {
+    color: lightblue;
+}
+
+h6 {
+    padding-top: 0.5rem;
+}
+
+form {
+    margin-bottom: .75rem;
+}
+
+.sidebar-sticky {
+    background-color: #f8f9fa;
+}
