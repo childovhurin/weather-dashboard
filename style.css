@@ -13,3 +13,26 @@ form {
 .sidebar-sticky {
     background-color: #f8f9fa;
 }
+
+.five-day-content {
+    color: #ffffff;
+    background-color: blue;
+}
+
+.five-day-p {
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 14px;
+}
+
+#current-city-today {
+    margin: 1rem 0;
+    padding-bottom: 0.5rem;
+}
+
+#current-city {
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 0;
+}
